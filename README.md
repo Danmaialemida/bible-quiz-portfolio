@@ -25,9 +25,9 @@
 
 ## Screenshots
 
-| Home | Categories | Gameplay | Settings |
-|:---:|:---:|:---:|:---:|
-| <img src="assets/screenshots/Home.jpg" width="200"> | <img src="assets/screenshots/Categorias.jpg" width="200"> | <img src="assets/screenshots/Game.jpg" width="200"> | <img src="assets/screenshots/Configurações.jpg" width="200"> |
+| Home | Categories | Gameplay | Settings | App Icon |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="assets/screenshots/Home.jpg" width="200"> | <img src="assets/screenshots/Categories.jpg" width="200"> | <img src="assets/screenshots/Game.jpg" width="200"> | <img src="assets/screenshots/Settings.jpg" width="200"> | <img src="assets/screenshots/Icon Quiz.png" width="200"> |
 
 ## About the Project
 
